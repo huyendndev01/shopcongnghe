@@ -1,0 +1,51 @@
+[
+        {
+            "id": 1,
+            "name": "Iphone 15 Promax 2024",
+            "category_id": 1,
+            "price": 32.990,
+            "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-plus_1__1.png"
+        },
+        {
+            "id": 2,
+            "name": "Macbook Air 3",
+            "category_id": 3,
+            "price": 199.99,
+            "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/m/a/mac_air_13_2020_xam_7.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Laptop Dell 5525",
+            "category_id": 3,
+            "price": 14.99,
+            "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/t/e/text_ng_n_32__1_6.png"
+        },
+        {
+            "id": 4,
+            "name": "Watch i8 Ultra Max",
+            "category_id": 2,
+            "price": 30.55,
+            "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/a/p/apple_gps_1_.png"
+        },
+        {
+            "id": 5,
+            "name": "Smart Tivi Samsung 4K 55",
+            "category_id": 4,
+            "price": 8.590,
+            "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/6/5/65578_1_.png"
+        },
+        {
+            "id": 6,
+            "name": "Tivi androind",
+            "category_id": 4,
+            "price": 4.990,
+            "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/s/m/smart-tivi-xiaomi-a2-43-inch.png"
+        },
+        {
+            "id": 7,
+            "name": "Imac",
+            "category_id": 3,
+            "price": 34.990,
+            "thumbnail": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/i/m/imac_2021.png"
+        }
+]
